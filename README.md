@@ -1,2 +1,1 @@
-# haskpad-backend
-haskpdad's backend
+# haskpad-server
